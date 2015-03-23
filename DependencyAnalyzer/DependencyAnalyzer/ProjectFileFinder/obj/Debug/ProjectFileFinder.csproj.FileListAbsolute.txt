@@ -1,0 +1,16 @@
+E:\DependencyAnalyzer\DependencyAnalyzer\ProjectFileFinder\bin\Debug\ProjectFileFinder.exe.config
+E:\DependencyAnalyzer\DependencyAnalyzer\ProjectFileFinder\bin\Debug\ProjectFileFinder.exe
+E:\DependencyAnalyzer\DependencyAnalyzer\ProjectFileFinder\bin\Debug\ProjectFileFinder.pdb
+E:\DependencyAnalyzer\DependencyAnalyzer\ProjectFileFinder\bin\Debug\FileManager.exe
+E:\DependencyAnalyzer\DependencyAnalyzer\ProjectFileFinder\bin\Debug\FileManager.pdb
+E:\DependencyAnalyzer\DependencyAnalyzer\ProjectFileFinder\obj\Debug\ProjectFileFinder.csprojResolveAssemblyReference.cache
+E:\DependencyAnalyzer\DependencyAnalyzer\ProjectFileFinder\obj\Debug\ProjectFileFinder.exe
+E:\DependencyAnalyzer\DependencyAnalyzer\ProjectFileFinder\obj\Debug\ProjectFileFinder.pdb
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\ProjectFileFinder\bin\Debug\ProjectFileFinder.exe.config
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\ProjectFileFinder\bin\Debug\ProjectFileFinder.exe
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\ProjectFileFinder\bin\Debug\ProjectFileFinder.pdb
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\ProjectFileFinder\bin\Debug\FileManager.exe
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\ProjectFileFinder\bin\Debug\FileManager.pdb
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\ProjectFileFinder\obj\Debug\ProjectFileFinder.csprojResolveAssemblyReference.cache
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\ProjectFileFinder\obj\Debug\ProjectFileFinder.exe
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\ProjectFileFinder\obj\Debug\ProjectFileFinder.pdb

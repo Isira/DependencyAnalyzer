@@ -1,0 +1,11 @@
+E:\DependencyAnalyzer\DependencyAnalyzer\BlockingQueue\bin\Debug\BlockingQueue.dll.config
+E:\DependencyAnalyzer\DependencyAnalyzer\BlockingQueue\bin\Debug\BlockingQueue.dll
+E:\DependencyAnalyzer\DependencyAnalyzer\BlockingQueue\bin\Debug\BlockingQueue.pdb
+E:\DependencyAnalyzer\DependencyAnalyzer\BlockingQueue\obj\Debug\BlockingQueue.dll
+E:\DependencyAnalyzer\DependencyAnalyzer\BlockingQueue\obj\Debug\BlockingQueue.pdb
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\BlockingQueue\bin\Debug\BlockingQueue.dll.config
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\BlockingQueue\bin\Debug\BlockingQueue.dll
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\BlockingQueue\bin\Debug\BlockingQueue.pdb
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\BlockingQueue\obj\Debug\BlockingQueue.dll
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\BlockingQueue\obj\Debug\BlockingQueue.pdb
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\BlockingQueue\obj\Debug\BlockingQueue.csprojResolveAssemblyReference.cache

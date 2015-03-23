@@ -1,0 +1,11 @@
+E:\DependencyAnalyzer\DependencyAnalyzer\FileManager\bin\Debug\FileManager.exe.config
+E:\DependencyAnalyzer\DependencyAnalyzer\FileManager\bin\Debug\FileManager.exe
+E:\DependencyAnalyzer\DependencyAnalyzer\FileManager\bin\Debug\FileManager.pdb
+E:\DependencyAnalyzer\DependencyAnalyzer\FileManager\obj\Debug\FileManager.exe
+E:\DependencyAnalyzer\DependencyAnalyzer\FileManager\obj\Debug\FileManager.pdb
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\FileManager\bin\Debug\FileManager.exe.config
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\FileManager\bin\Debug\FileManager.exe
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\FileManager\bin\Debug\FileManager.pdb
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\FileManager\obj\Debug\FileManager.exe
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\FileManager\obj\Debug\FileManager.pdb
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+E:\DependencyAnalyzer\DependencyAnalyzer\TypeTable\bin\Debug\TypeTable.dll.config
+E:\DependencyAnalyzer\DependencyAnalyzer\TypeTable\bin\Debug\TypeTable.dll
+E:\DependencyAnalyzer\DependencyAnalyzer\TypeTable\bin\Debug\TypeTable.pdb
+E:\DependencyAnalyzer\DependencyAnalyzer\TypeTable\bin\Debug\IService.dll
+E:\DependencyAnalyzer\DependencyAnalyzer\TypeTable\bin\Debug\IService.pdb
+E:\DependencyAnalyzer\DependencyAnalyzer\TypeTable\obj\Debug\TypeTable.csprojResolveAssemblyReference.cache
+E:\DependencyAnalyzer\DependencyAnalyzer\TypeTable\obj\Debug\TypeTable.dll
+E:\DependencyAnalyzer\DependencyAnalyzer\TypeTable\obj\Debug\TypeTable.pdb
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\TypeTable\bin\Debug\TypeTable.dll.config
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\TypeTable\bin\Debug\TypeTable.dll
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\TypeTable\bin\Debug\TypeTable.pdb
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\TypeTable\bin\Debug\IService.dll
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\TypeTable\bin\Debug\IService.pdb
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\TypeTable\obj\Debug\TypeTable.csprojResolveAssemblyReference.cache
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\TypeTable\obj\Debug\TypeTable.dll
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\TypeTable\obj\Debug\TypeTable.pdb

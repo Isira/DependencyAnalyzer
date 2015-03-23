@@ -1,0 +1,7 @@
+<Configuration>
+<LocalAddress>http://localhost:8082/ICommunicator</LocalAddress>
+<RootPath>.</RootPath>
+<Servers>
+<Server>http://localhost:8081/ICommunicator</Server>
+</Servers>
+</Configuration>

@@ -1,0 +1,11 @@
+E:\DependencyAnalyzer\DependencyAnalyzer\ServiceClient\bin\Debug\ServiceClient.exe.config
+E:\DependencyAnalyzer\DependencyAnalyzer\ServiceClient\bin\Debug\ServiceClient.exe
+E:\DependencyAnalyzer\DependencyAnalyzer\ServiceClient\bin\Debug\ServiceClient.pdb
+E:\DependencyAnalyzer\DependencyAnalyzer\ServiceClient\obj\Debug\ServiceClient.exe
+E:\DependencyAnalyzer\DependencyAnalyzer\ServiceClient\obj\Debug\ServiceClient.pdb
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\ServiceClient\bin\Debug\ServiceClient.exe.config
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\ServiceClient\bin\Debug\ServiceClient.exe
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\ServiceClient\bin\Debug\ServiceClient.pdb
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\ServiceClient\obj\Debug\ServiceClient.exe
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\ServiceClient\obj\Debug\ServiceClient.pdb
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\ServiceClient\obj\Debug\ConfigurationLoader.csprojResolveAssemblyReference.cache

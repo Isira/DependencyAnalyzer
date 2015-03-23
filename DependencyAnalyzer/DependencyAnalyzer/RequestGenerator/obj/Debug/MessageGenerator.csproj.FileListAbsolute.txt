@@ -1,0 +1,12 @@
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\RequestGenerator\bin\Debug\ClientActivator.exe.config
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\RequestGenerator\bin\Debug\ClientActivator.exe
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\RequestGenerator\bin\Debug\ClientActivator.pdb
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\RequestGenerator\bin\Debug\IService.dll
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\RequestGenerator\bin\Debug\ServiceClient.exe
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\RequestGenerator\bin\Debug\TypeTable.dll
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\RequestGenerator\bin\Debug\IService.pdb
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\RequestGenerator\bin\Debug\ServiceClient.pdb
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\RequestGenerator\bin\Debug\TypeTable.pdb
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\RequestGenerator\obj\Debug\MessageGenerator.csprojResolveAssemblyReference.cache
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\RequestGenerator\obj\Debug\ClientActivator.exe
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\RequestGenerator\obj\Debug\ClientActivator.pdb

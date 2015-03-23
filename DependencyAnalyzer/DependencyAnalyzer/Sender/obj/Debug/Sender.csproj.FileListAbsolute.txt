@@ -1,0 +1,8 @@
+E:\DependencyAnalyzer\DependencyAnalyzer\Sender\bin\Debug\Sender.exe.config
+E:\DependencyAnalyzer\DependencyAnalyzer\Sender\bin\Debug\Sender.exe
+E:\DependencyAnalyzer\DependencyAnalyzer\Sender\bin\Debug\Sender.pdb
+E:\DependencyAnalyzer\DependencyAnalyzer\Sender\bin\Debug\IService.dll
+E:\DependencyAnalyzer\DependencyAnalyzer\Sender\bin\Debug\IService.pdb
+E:\DependencyAnalyzer\DependencyAnalyzer\Sender\obj\Debug\Sender.csprojResolveAssemblyReference.cache
+E:\DependencyAnalyzer\DependencyAnalyzer\Sender\obj\Debug\Sender.exe
+E:\DependencyAnalyzer\DependencyAnalyzer\Sender\obj\Debug\Sender.pdb

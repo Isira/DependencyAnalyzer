@@ -1,0 +1,12 @@
+E:\DependencyAnalyzer\DependencyAnalyzer\ServiceClient\obj\Debug\ServiceClient.csprojResolveAssemblyReference.cache
+E:\DependencyAnalyzer\DependencyAnalyzer\ServiceClient\bin\Debug\ServiceClient.exe.config
+E:\DependencyAnalyzer\DependencyAnalyzer\ServiceClient\bin\Debug\ServiceClient.exe
+E:\DependencyAnalyzer\DependencyAnalyzer\ServiceClient\bin\Debug\ServiceClient.pdb
+E:\DependencyAnalyzer\DependencyAnalyzer\ServiceClient\bin\Debug\IService.dll
+E:\DependencyAnalyzer\DependencyAnalyzer\ServiceClient\bin\Debug\IService.pdb
+E:\DependencyAnalyzer\DependencyAnalyzer\ServiceClient\obj\Debug\ServiceClient.exe
+E:\DependencyAnalyzer\DependencyAnalyzer\ServiceClient\obj\Debug\ServiceClient.pdb
+E:\DependencyAnalyzer\DependencyAnalyzer\ServiceClient\bin\Debug\DependencyAnalyzerClientService.exe
+E:\DependencyAnalyzer\DependencyAnalyzer\ServiceClient\bin\Debug\DependencyAnalyzerClientService.pdb
+E:\DependencyAnalyzer\DependencyAnalyzer\ServiceClient\bin\Debug\MessageQueue.exe
+E:\DependencyAnalyzer\DependencyAnalyzer\ServiceClient\bin\Debug\MessageQueue.pdb

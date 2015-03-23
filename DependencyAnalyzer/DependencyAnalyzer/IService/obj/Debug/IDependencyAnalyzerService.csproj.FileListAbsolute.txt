@@ -1,0 +1,11 @@
+E:\DependencyAnalyzer\DependencyAnalyzer\IService\bin\Debug\IService.dll.config
+E:\DependencyAnalyzer\DependencyAnalyzer\IService\bin\Debug\IService.dll
+E:\DependencyAnalyzer\DependencyAnalyzer\IService\bin\Debug\IService.pdb
+E:\DependencyAnalyzer\DependencyAnalyzer\IService\obj\Debug\IService.dll
+E:\DependencyAnalyzer\DependencyAnalyzer\IService\obj\Debug\IService.pdb
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\IService\bin\Debug\IService.dll.config
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\IService\bin\Debug\IService.dll
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\IService\bin\Debug\IService.pdb
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\IService\obj\Debug\IService.dll
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\IService\obj\Debug\IService.pdb
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\IService\obj\Debug\IDependencyAnalyzerService.csprojResolveAssemblyReference.cache

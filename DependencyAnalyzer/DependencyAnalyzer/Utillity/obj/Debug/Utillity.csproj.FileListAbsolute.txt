@@ -1,0 +1,10 @@
+E:\DependencyAnalyzer\DependencyAnalyzer\Utillity\bin\Debug\Utillity.pdb
+E:\DependencyAnalyzer\DependencyAnalyzer\Utillity\obj\Debug\Utillity.pdb
+E:\DependencyAnalyzer\DependencyAnalyzer\Utillity\bin\Debug\Utillity.exe.config
+E:\DependencyAnalyzer\DependencyAnalyzer\Utillity\bin\Debug\Utillity.exe
+E:\DependencyAnalyzer\DependencyAnalyzer\Utillity\obj\Debug\Utillity.exe
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\Utillity\bin\Debug\Utillity.exe.config
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\Utillity\bin\Debug\Utillity.exe
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\Utillity\bin\Debug\Utillity.pdb
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\Utillity\obj\Debug\Utillity.exe
+C:\Users\isira\Documents\Isira_Project_4\DependencyAnalyzer\DependencyAnalyzer\Utillity\obj\Debug\Utillity.pdb

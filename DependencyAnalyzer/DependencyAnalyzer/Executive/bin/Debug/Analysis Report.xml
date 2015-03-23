@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Results for Code Analyze-->
+<Results>
+  <ResultGroup File="C:\Users\isira\Documents\Workspace\temp\RulesAndActions_.cs">
+    <Result With="PushStack" Relationship="Inherit" Class="Repository" />
+    <Result With="COmposed" Relationship="Composition" Class="Repository" />
+    <Result With="Repository" Relationship="Using" Class="PushStack" />
+    <Result With="Elem" Relationship="Aggregate" Class="PushStack" />
+    <Result With="Repository" Relationship="Using" Class="PopStack" />
+    <Result With="Elem" Relationship="Using" Class="PopStack" />
+    <Result With="Repository" Relationship="Using" Class="PrintFunction" />
+    <Result With="Repository" Relationship="Using" Class="Print" />
+    <Result With="Repository" Relationship="Using" Class="InsertToSymbolTable" />
+    <Result With="Elem" Relationship="Using" Class="InsertToSymbolTable" />
+    <Result With="Elem" Relationship="Aggregate" Class="InsertToSymbolTable" />
+    <Result With="Repository" Relationship="Aggregate" Class="BuildCodeAnalyzer" />
+    <Result With="PushStack" Relationship="Aggregate" Class="BuildCodeAnalyzer" />
+    <Result With="InsertToSymbolTable" Relationship="Aggregate" Class="BuildCodeAnalyzer" />
+    <Result With="DetectNamespace" Relationship="Aggregate" Class="BuildCodeAnalyzer" />
+    <Result With="DetectType" Relationship="Aggregate" Class="BuildCodeAnalyzer" />
+    <Result With="DetectFunction" Relationship="Aggregate" Class="BuildCodeAnalyzer" />
+    <Result With="DetectAnonymousScope" Relationship="Aggregate" Class="BuildCodeAnalyzer" />
+    <Result With="DetectBracelessScope" Relationship="Aggregate" Class="BuildCodeAnalyzer" />
+    <Result With="DetectLeavingScope" Relationship="Aggregate" Class="BuildCodeAnalyzer" />
+    <Result With="PopStack" Relationship="Aggregate" Class="BuildCodeAnalyzer" />
+  </ResultGroup>
+</Results>

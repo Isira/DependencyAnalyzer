@@ -1,0 +1,787 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RelationshipInfo>
+  <Dependency>
+    <child>
+      <name>Analyzer</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Analyzer\Analyzer.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>Parser</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\Parser.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>TypeAnalyzer</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Analyzer\Analyzer.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>Analyzer</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Analyzer\Analyzer.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>TypeRelationshipAnalyzer</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Analyzer\Analyzer.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>Analyzer</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Analyzer\Analyzer.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>FileManager</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\FileManager\FileManager.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>FileManager</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\FileManager\FileManager.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>AAction</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Parser\IRuleandAction.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>IAction</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\IRuleandAction.cs</filename>
+          <definedType>interface</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>ARule</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Parser\IRuleandAction.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>IRule</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\IRuleandAction.cs</filename>
+          <definedType>interface</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>Repository</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Parser\RulesAndActions.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>ScopeStack</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\ScopeStack.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>PushStack</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Parser\RulesAndActions.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>AAction</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\IRuleandAction.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>PopStack</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Parser\RulesAndActions.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>AAction</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\IRuleandAction.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>AddRelationship</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Parser\RulesAndActions.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>AAction</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\IRuleandAction.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>AddUserDefinedType</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Parser\RulesAndActions.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>AAction</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\IRuleandAction.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>DetectNamespace</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Parser\RulesAndActions.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>ARule</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\IRuleandAction.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>DetectType</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Parser\RulesAndActions.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>ARule</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\IRuleandAction.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>DetectFunction</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Parser\RulesAndActions.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>ARule</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\IRuleandAction.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>DetectAnonymousScope</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Parser\RulesAndActions.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>ARule</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\IRuleandAction.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>DetectLeavingScope</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Parser\RulesAndActions.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>ARule</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\IRuleandAction.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>DetectBracelessScope</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Parser\RulesAndActions.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>ARule</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\IRuleandAction.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>DetectAggregation</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Parser\RulesAndActions.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>ARule</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\IRuleandAction.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>DetectInheritance</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Parser\RulesAndActions.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>ARule</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\IRuleandAction.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>DetectUsing</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Parser\RulesAndActions.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>ARule</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\IRuleandAction.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>DetectComposition</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Parser\RulesAndActions.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>ARule</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\IRuleandAction.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>BuildCodeAnalyzer</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Parser\RulesAndActions.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>Repository</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\RulesAndActions.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>Test</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Parser\ScopeStack.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>ScopeStack</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\ScopeStack.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>CSemiExp</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Parser\Semi.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>CToker</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\Toker.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>eligibleCheck</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Parser\TestCase-eligibleCheck.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>eligibleCheck</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\TestCase-eligibleCheck.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>CToker</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Parser\Toker.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>CToker</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\Toker.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>Parser</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Parser\Parser.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>IRule</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\IRuleandAction.cs</filename>
+          <definedType>interface</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>TestParser</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Parser\Parser.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>BuildCodeAnalyzer</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\RulesAndActions.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>ProjectFileFinder</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\ProjectFileFinder\ProjectFileFinder.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>FileManager</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\FileManager\FileManager.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>GetTypesOfSolutions</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Executive\AnalyzerExecutive.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>FileManager</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\FileManager\FileManager.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>GetAllTypes</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Executive\AnalyzerExecutive.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>FileManager</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\FileManager\FileManager.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>GetDependency</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\DependencyAnalyzer\Executive\AnalyzerExecutive.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>TypeRelationshipAnalyzer</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Analyzer\Analyzer.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>FunctionComplexityAnalyzer</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Analyzer\Analyzer.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>Analyzer</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Analyzer\Analyzer.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>CommandLineParser</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\CommandLineParser\CommandLineParser.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>CommandLineParser</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\CommandLineParser\CommandLineParser.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>Display</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Display\Display.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>Result</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\RulesAndActions.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>FunctionComplexityDisplay</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Display\Display.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>Display</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Display\Display.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>TypeRelationshipDisplay</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Display\Display.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>Display</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Display\Display.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>XMLWriter</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Display\Display.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>Result</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\RulesAndActions.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>FunctionComplexityXMLWriter</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Display\Display.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>XMLWriter</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Display\Display.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>RelationshipXMLWriter</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Display\Display.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>XMLWriter</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Display\Display.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>Executive</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Executive\Executive.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>CommandLineParser</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\CommandLineParser\CommandLineParser.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>FunctionComplexityResult</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\RulesAndActions.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>Result</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\RulesAndActions.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>RelationshipResult</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\RulesAndActions.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>Result</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\RulesAndActions.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>RelationhsipeResultComparator</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\RulesAndActions.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>RelationshipResult</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\RulesAndActions.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>UpdateFunctionComplexity</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\RulesAndActions.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>AAction</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\IRuleandAction.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>FunctionComplexityResultGenerator</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\RulesAndActions.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>Repository</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\RulesAndActions.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>SetFunctionSize</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\RulesAndActions.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>AAction</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\IRuleandAction.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>UpdateFunctionSize</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\RulesAndActions.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>AAction</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\IRuleandAction.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+  <Dependency>
+    <child>
+      <name>TypeResult</name>
+      <namespace />
+      <filename>E:\DependencyAnalyzer\Result\Result.cs</filename>
+      <definedType>class</definedType>
+      <Relationship>
+        <parent>
+          <name>Result</name>
+          <namespace />
+          <filename>E:\DependencyAnalyzer\Isira_Samarasekera-Project2\CodeAnalyzer\Parser\RulesAndActions.cs</filename>
+          <definedType>class</definedType>
+        </parent>
+      </Relationship>
+    </child>
+  </Dependency>
+</RelationshipInfo>

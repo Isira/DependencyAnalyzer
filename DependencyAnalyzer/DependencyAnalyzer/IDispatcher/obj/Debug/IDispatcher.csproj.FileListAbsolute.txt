@@ -1,0 +1,8 @@
+E:\DependencyAnalyzer\DependencyAnalyzer\IDispatcher\bin\Debug\IDispatcher.exe.config
+E:\DependencyAnalyzer\DependencyAnalyzer\IDispatcher\bin\Debug\IDispatcher.exe
+E:\DependencyAnalyzer\DependencyAnalyzer\IDispatcher\bin\Debug\IDispatcher.pdb
+E:\DependencyAnalyzer\DependencyAnalyzer\IDispatcher\bin\Debug\IService.dll
+E:\DependencyAnalyzer\DependencyAnalyzer\IDispatcher\bin\Debug\IService.pdb
+E:\DependencyAnalyzer\DependencyAnalyzer\IDispatcher\obj\Debug\IDispatcher.exe
+E:\DependencyAnalyzer\DependencyAnalyzer\IDispatcher\obj\Debug\IDispatcher.pdb
+E:\DependencyAnalyzer\DependencyAnalyzer\IDispatcher\obj\Debug\IDispatcher.csprojResolveAssemblyReference.cache

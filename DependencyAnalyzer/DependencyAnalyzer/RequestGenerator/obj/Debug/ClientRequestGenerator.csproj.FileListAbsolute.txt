@@ -1,0 +1,10 @@
+E:\DependencyAnalyzer\DependencyAnalyzer\ClientActivator\bin\Debug\ClientActivator.exe.config
+E:\DependencyAnalyzer\DependencyAnalyzer\ClientActivator\bin\Debug\ClientActivator.exe
+E:\DependencyAnalyzer\DependencyAnalyzer\ClientActivator\bin\Debug\ClientActivator.pdb
+E:\DependencyAnalyzer\DependencyAnalyzer\ClientActivator\bin\Debug\IService.dll
+E:\DependencyAnalyzer\DependencyAnalyzer\ClientActivator\bin\Debug\ServiceClient.exe
+E:\DependencyAnalyzer\DependencyAnalyzer\ClientActivator\bin\Debug\IService.pdb
+E:\DependencyAnalyzer\DependencyAnalyzer\ClientActivator\bin\Debug\ServiceClient.pdb
+E:\DependencyAnalyzer\DependencyAnalyzer\ClientActivator\obj\Debug\ClientRequestGenerator.csprojResolveAssemblyReference.cache
+E:\DependencyAnalyzer\DependencyAnalyzer\ClientActivator\obj\Debug\ClientActivator.exe
+E:\DependencyAnalyzer\DependencyAnalyzer\ClientActivator\obj\Debug\ClientActivator.pdb
